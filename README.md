@@ -1,3 +1,3 @@
-# Example1
-## Exercise for **statistics course**
+# Example
+## Exercises for **statistics course**
 Exercise for *programming course*
