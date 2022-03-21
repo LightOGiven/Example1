@@ -1,3 +1,5 @@
 # Example
-## Exercises for **statistics course**
-Exercise for *programming course*
+## Exercises for statistics course
+* Functions for **R**
+* Functions for **Excel**
+* Functions for **Power BI**
